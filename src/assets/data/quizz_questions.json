@@ -1,0 +1,55 @@
+{
+  "title":"Qual lado da força voçe está ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que voce prefere ?",
+      "options":[
+        {"id": 1, "name":"Viver feliz e em paz", "alias":"A"},
+        {"id": 2, "name":"Ser o mais poderoso sem se importar com quem atravesse seu caminho", "alias":"B"},
+        {"id": 3, "name":"Cuidar de bebês", "alias":"A"},
+        {"id": 4, "name":"Explodir coisas", "alias":"B"},
+        {"id": 5, "name":"fazer amizades", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"A"},
+        {"id": 2, "name":"Idosos", "alias":"A"},
+        {"id": 3, "name":"eu mesmo é claro", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação na vida ?",
+      "options":[
+        {"id": 1, "name":"Socar a cara do inimigo", "alias":"B"},
+        {"id": 2, "name":"Adotar um cachorrinho", "alias":"A"},
+        {"id": 3, "name":"Adotar cinco cachorrinho", "alias":"A"},
+        {"id": 4, "name":"Socar a cara de milhares inimigo", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Fazer o bem e ser feliz", "alias":"A"},
+        {"id": 2, "name":"Ser poderoso, o resto não é problema meu", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido ?",
+      "options":[
+        {"id": 1, "name":"O amigo de todos", "alias":"A"},
+        {"id": 2, "name":"O maligno", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você está no lado da luz! Seria um jedi altruísta",
+    "B": "Você está no lado das trevas! Seria um jedi poderoso e ganâncioso"
+  }
+}
